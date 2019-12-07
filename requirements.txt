@@ -1,0 +1,11 @@
+cnf==0.0.4
+ephem==3.7.7.0
+jupyter==1.0.0
+keras==2.3.1
+pandas==0.24.2
+pip-chill==0.1.8
+pulp==1.6.10
+python-sat==0.1.4.dev23
+scikit-learn==0.21.3
+soupsieve==1.9.5
+tensorflow==2.0.0
