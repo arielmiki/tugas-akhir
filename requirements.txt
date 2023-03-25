@@ -8,4 +8,4 @@ pulp==1.6.10
 python-sat==0.1.4.dev23
 scikit-learn==0.21.3
 soupsieve==1.9.5
-tensorflow==2.0.0
+tensorflow==2.11.1
